@@ -1,4 +1,4 @@
-# Cas de synthèse
+# Cas de synthèse javascript
 
 ## Contexte
 Vous disposez du site de présentation d’un club de voyages « La folle parenthèse ». Votre tuteur de stage a 
