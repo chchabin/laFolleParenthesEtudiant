@@ -1,0 +1,15 @@
+<section class="container">
+<form class="my-form" id="simuler">
+    <label for="datedeb">Date début de séjour :</label>
+    <input id="datedeb" type="date" name="datedeb" placeholder="Date début de séjour"/>
+    <label for="nbjrs">Nombre de jours de location :</label>
+    <input type="number" id="nbjrs" name="nbjrs" value="1" min="1" placeholder="Nombre de jours de location">
+    <label for="chambre">Choisissez le type de chambre</label>
+    <select id="chambre" name="chambre">
+<!--Insérez les données de chambre saison.json-->
+    </select>
+    <input class="btn"  type="submit" value="Simuler" id="button"/>
+</form>
+</section>
+<div id="saison"></div>
+<!--Affichez le montant à payer-->

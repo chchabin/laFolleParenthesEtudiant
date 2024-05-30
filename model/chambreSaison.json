@@ -1,0 +1,12 @@
+{
+  "Basse Saison":{
+    "Chambre simple": 65,
+    "Chambre double": 75,
+    "Chambre triple": 90
+  },
+  "Haute Saison":{
+    "Chambre simple": 75,
+    "Chambre double": 85,
+    "Chambre triple": 105
+  }
+ }
